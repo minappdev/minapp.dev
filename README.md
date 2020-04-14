@@ -19,31 +19,19 @@
 * 技术支持费用(可选)
     1000元/月, 同时提供数据库定义及小程序接口文档
 
+> 后续持续免费提供Bug级的修复
+
 ## 服务端
 
-服务端只提供Linux amd64二进制文件
-
-```
-$ wget ...
-$ chmod +x store
-$ wget ...
-$ store config.env
-```
-
-> 后续持续免费提供Bug级的修复
+https://github.com/minappdev/store-server 
 
 ## 后台端
 
-* 公共后台 https://store.minapp.dev
-* 自己部署 https://github.com/minappdev/store-admin
-
-> 后续持续免费提供Bug级的修复
+https://github.com/minappdev/store-admin
 
 ## 小程序端
 
 付费后会邀请你加入小程序端代码的github私有仓库
-
-> 后续持续免费提供Bug级的修复
 
 ## 七种商城类型
 
