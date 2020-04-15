@@ -33,5 +33,5 @@ https://github.com/minappdev/store-admin
 
 ## 七种商城类型
 
-* 七种商城类型及功能请参考SaaS版: https://www.sansanll.com/step 这个页面的第一步
+* 七种商城类型及功能请参考SaaS版: https://www.sansanll.com/step 页面的*第一步*
 * 与SaaS版相比, 私有化部署版不含的功能: 抢红包, 一键呼叫骑手
