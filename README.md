@@ -38,4 +38,4 @@
 * 七种商城类型, 功能, 案例, 请参考SaaS版: [https://www.sansanll.com/step](https://www.sansanll.com/step) 页面的*第一步*
 * 与SaaS版相比, 私有化部署版不含的功能: 抢红包, 一键呼叫骑手
 
-> 后续持续免费提供三端Real Bug的修复
+> 后续持续免费提供三端Real Bug的修复, 修复速度同SaaS版
