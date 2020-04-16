@@ -15,19 +15,23 @@
 * 技术咨询(可选)
     * 2000元/月, 同时提供数据库定义及小程序接口文档(NOT READY)
 
-**购买License请联系WX(base64):** `Z3VvbXVndW9tdW5vbmc=`
+## 步骤
 
-## 服务端
+1. 购买License
+
+暂时请联系WX(base64): `Z3VvbXVndW9tdW5vbmc=`
+
+2. 部署服务端
 
 https://github.com/minappdev/store-server 
 
-## 管理后台端
+3. 使用公共管理后台端或自己部署管理后台端
 
 https://github.com/minappdev/store-admin
 
-## 小程序端
+4. 获得小程序代码并发布
 
-付费后会邀请你加入小程序端代码的github私有仓库
+购买license后, 会邀请你加入小程序端代码的github私有仓库
 
 ## 七种商城类型
 
