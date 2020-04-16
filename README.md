@@ -1,7 +1,5 @@
 # 闪鲤电商小程序私有化部署
 
-[项目介绍](#项目介绍) | [价格](#价格) | [服务端](#服务端) | [管理后台端](#管理后台端)  | [小程序端](#小程序端) | [七种商城类型](#七种商城类型)
-
 ## 项目介绍
 
 本项目是[闪鲤电商小程序](https://www.sansanll.com)私有化部署方案. 组成部分:
@@ -17,15 +15,13 @@
 * 技术支持费用(可选)
     1000元/月, 同时提供数据库定义及小程序接口文档(NOT READY)
 
-> 后续持续免费提供三端Real Bug的修复
-
 **购买License请联系WX(base64):** `Z3VvbXVndW9tdW5vbmc=`
 
 ## 服务端
 
 https://github.com/minappdev/store-server 
 
-## 后台端
+## 管理后台端
 
 https://github.com/minappdev/store-admin
 
@@ -37,3 +33,5 @@ https://github.com/minappdev/store-admin
 
 * 七种商城类型及功能请参考SaaS版: https://www.sansanll.com/step 页面的*第一步*
 * 与SaaS版相比, 私有化部署版不含的功能: 抢红包, 一键呼叫骑手
+
+> 后续持续免费提供三端Real Bug的修复
