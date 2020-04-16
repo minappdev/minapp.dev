@@ -19,7 +19,7 @@
 
 1. 购买License
 
-暂时请联系WX(base64): `Z3VvbXVndW9tdW5vbmc=`
+    暂时请联系WX(base64): `Z3VvbXVndW9tdW5vbmc=`
 
 2. 部署服务端
 
