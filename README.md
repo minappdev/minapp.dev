@@ -23,15 +23,15 @@
 
 2. 部署服务端
 
-https://github.com/minappdev/store-server 
+    https://github.com/minappdev/store-server 
 
 3. 使用公共管理后台端或自己部署管理后台端
 
-https://github.com/minappdev/store-admin
+    https://github.com/minappdev/store-admin
 
 4. 获得小程序代码并发布
 
-购买license后, 会邀请你加入小程序端代码的github私有仓库
+    购买license后, 会邀请你加入小程序端代码的github私有仓库
 
 ## 七种商城类型
 
