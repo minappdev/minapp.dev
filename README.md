@@ -23,11 +23,11 @@
 
 2. 部署服务端
 
-    https://github.com/minappdev/store-server 
+    [https://github.com/minappdev/store-server](https://github.com/minappdev/store-server)
 
 3. 使用公共管理后台端或自己部署管理后台端
 
-    https://github.com/minappdev/store-admin
+    [https://github.com/minappdev/store-admin](https://github.com/minappdev/store-admin)
 
 4. 获得小程序代码并发布
 
@@ -35,7 +35,7 @@
 
 ## 七种商城类型
 
-* 七种商城类型, 功能, 案例, 请参考SaaS版: https://www.sansanll.com/step 页面的*第一步*
+* 七种商城类型, 功能, 案例, 请参考SaaS版: [https://www.sansanll.com/step](https://www.sansanll.com/step) 页面的*第一步*
 * 与SaaS版相比, 私有化部署版不含的功能: 抢红包, 一键呼叫骑手
 
 > 后续持续免费提供三端Real Bug的修复
