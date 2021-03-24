@@ -31,9 +31,33 @@
 
     购买license后, 会邀请你加入小程序端代码的github私有仓库
 
-## 七种商城类型
+## 七种商城类型主要功能介绍
 
 <details>
   <summary>通用商城</summary>
   <img src="0.png"/>
+</details>
+<details>
+  <summary>教育培训</summary>
+  <img src="2.png"/>
+</details>
+<details>
+  <summary>周边周期购</summary>
+  <img src="4.png"/>
+</details>
+<details>
+  <summary>餐饮外卖</summary>
+  <img src="7.png"/>
+</details>
+<details>
+  <summary>周边零售</summary>
+  <img src="6.png"/>
+</details>
+<details>
+  <summary>到店核销</summary>
+  <img src="1.png"/>
+</details>
+<details>
+  <summary>到店核销时段版</summary>
+  <img src="3.png"/>
 </details>
