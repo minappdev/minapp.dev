@@ -35,5 +35,5 @@
 
 <details>
   <summary>通用商城</summary>
-  ![通用商城](0.png)
+  <img src="0.png"/>
 </details>
